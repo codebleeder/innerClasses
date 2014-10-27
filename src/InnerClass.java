@@ -4,7 +4,7 @@ public class InnerClass {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
+	public static void useInnerClass() {
 		// TODO Auto-generated method stub
 		
 		// object of outerclass
